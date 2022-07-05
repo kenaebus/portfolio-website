@@ -1,0 +1,17 @@
+body {
+    background-color: #202020;
+    color: white;
+    font-family: 'Arvo', serif;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
