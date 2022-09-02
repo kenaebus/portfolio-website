@@ -1,4 +1,13 @@
 # Portfolio Website
+<h1>Version 2.1</h1>
+
+<br>
+<br>
+<ul>
+    <li>Simplified styling -- Deleted extra css files</li>
+    <li>Created bloghub.html [Not live yet]</li>
+</ul>
+
 <h1>Version 2.0</h1>
 8.30.2022
 <br>
